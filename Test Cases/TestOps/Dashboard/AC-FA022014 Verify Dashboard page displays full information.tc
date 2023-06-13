@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA022014 Verify Dashboard page displays full information</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>1a718cf2-6ccc-48b1-a197-ac3f60f7a8c8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7d2b333b-cc74-4786-9a17-4c6d3713a45e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7d2b333b-cc74-4786-9a17-4c6d3713a45e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>93f8f247-3995-4b72-8169-4addb5263697</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>93f8f247-3995-4b72-8169-4addb5263697</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

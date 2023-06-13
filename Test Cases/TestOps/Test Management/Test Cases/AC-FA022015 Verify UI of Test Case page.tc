@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA022015 Verify UI of Test Case page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>557eb761-c396-4b1d-9d32-53c540e0242d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>cf8c3437-2840-406f-9526-3453db945a73</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>cf8c3437-2840-406f-9526-3453db945a73</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>fd0d21ee-8beb-4480-b01f-1737f1d00c83</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>fd0d21ee-8beb-4480-b01f-1737f1d00c83</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

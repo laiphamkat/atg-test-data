@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA044469 Verify tc tunnel config page</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>6eda49a5-681d-4125-8d0a-aacbd338e82b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fb2e42eb-aa51-43ba-9313-2b606ad5f57f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Configurations/AC-FA044469</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fb2e42eb-aa51-43ba-9313-2b606ad5f57f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>0e8fd323-9e8e-45d0-a8a8-79dede922d60</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>0e8fd323-9e8e-45d0-a8a8-79dede922d60</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA-045140 Verify Requirement GUI Page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>8e41aae4-2690-49f2-905b-2285c58c1d20</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>49041ec2-8d87-45f9-8fd0-245d917aa48a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>49041ec2-8d87-45f9-8fd0-245d917aa48a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>404fc62b-8477-4ad2-a6d2-fc3931e0e07d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>404fc62b-8477-4ad2-a6d2-fc3931e0e07d</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

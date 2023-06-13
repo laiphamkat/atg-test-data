@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST013446 Verify auto grant support slot for active user and return slot when removing user</name>
+   <tag>story-test, support-management,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>6f0ea943-5906-4279-8c5b-5b7a0bdff1d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6820780-2ab7-4386-ae8b-97f50e584abd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'qeautomationkatalon+admin4@gmail.com'</defaultValue>
+      <description></description>
+      <id>e6820780-2ab7-4386-ae8b-97f50e584abd</id>
+      <masked>false</masked>
+      <name>invitee</name>
+   </variable>
+</TestCaseEntity>

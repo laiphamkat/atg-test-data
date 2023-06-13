@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044457 Verify schedule modal interval validation</name>
+   <tag>story-test,schedule-test-run,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>e8c35b42-7fc7-4c14-ba59-fe5b5c527ad9</testCaseGuid>
+</TestCaseEntity>

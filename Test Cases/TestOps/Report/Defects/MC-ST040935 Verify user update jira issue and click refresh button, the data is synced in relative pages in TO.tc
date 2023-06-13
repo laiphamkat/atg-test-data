@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST040935 Verify user update jira issue and click refresh button, the data is synced in relative pages in TO</name>
+   <tag>story-test,defect,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>5ef057bc-dff4-4893-b142-ceb576422196</testCaseGuid>
+</TestCaseEntity>

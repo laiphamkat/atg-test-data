@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST040952 Verify the onboaring flows of katalon studio on dashboard page</name>
+   <tag>story-test,onboarding,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>3fffd8b3-e5c3-43c6-93f8-6560e8f314f7</testCaseGuid>
+</TestCaseEntity>

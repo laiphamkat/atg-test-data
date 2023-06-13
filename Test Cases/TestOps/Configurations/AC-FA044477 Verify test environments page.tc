@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA044477 Verify test environments page</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>e5bb75da-3cdb-4b6a-a5d9-2dd736444cbf</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fb2e42eb-aa51-43ba-9313-2b606ad5f57f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fb2e42eb-aa51-43ba-9313-2b606ad5f57f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>2a818bea-4390-4ab8-9098-4b3c304d6668</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>2a818bea-4390-4ab8-9098-4b3c304d6668</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

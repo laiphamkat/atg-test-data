@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST04921 Verify user gets 1 support slot when paying for Katalon Platform Premium</name>
+   <tag>story-test,ui,support-management,p2</tag>
+   <comment></comment>
+   <testCaseGuid>a4f69add-0be0-45f2-839a-d691b73aaf57</testCaseGuid>
+</TestCaseEntity>

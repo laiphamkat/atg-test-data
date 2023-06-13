@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FE040931 Verify sort and pagination functions in Defect page work correctly</name>
+   <tag>feature-test,defect,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>f90befbb-ab61-49d1-8704-5c1a6935831f</testCaseGuid>
+</TestCaseEntity>

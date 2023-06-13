@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA044475 Verify ui of schedule test run modal kata cmd tab</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>ef1ce827-b766-4968-81c0-39c784c6d139</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b7f0f430-7ce4-4446-98ac-8e3d40e63a46</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b7f0f430-7ce4-4446-98ac-8e3d40e63a46</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>d17dca0d-511e-474d-b78e-afe8079be969</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>d17dca0d-511e-474d-b78e-afe8079be969</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST007278 Verify subscription canceled change on DB should be correct</name>
+   <tag>story-test,subscription-management,integration,recurly,p2</tag>
+   <comment></comment>
+   <testCaseGuid>12e9ea28-552b-4360-b69c-cf5f128e4f85</testCaseGuid>
+</TestCaseEntity>

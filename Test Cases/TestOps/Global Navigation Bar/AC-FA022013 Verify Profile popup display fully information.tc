@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA022013 Verify Profile popup display fully information</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>730a24e8-69c5-41de-b6e7-782a56eb7be5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7f450006-e9e7-4a60-b984-c5284487da07</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7f450006-e9e7-4a60-b984-c5284487da07</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>f8e8f6fc-a900-4d0d-b654-bd4fd6eeb519</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>f8e8f6fc-a900-4d0d-b654-bd4fd6eeb519</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

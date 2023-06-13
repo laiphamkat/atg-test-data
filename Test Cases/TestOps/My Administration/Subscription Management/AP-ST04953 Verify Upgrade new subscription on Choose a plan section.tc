@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST04953 Verify Upgrade new subscription on Choose a plan section</name>
+   <tag>story-test,subscription-management,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>61c61ffe-8ced-4ef9-a681-150c6591a98b</testCaseGuid>
+</TestCaseEntity>

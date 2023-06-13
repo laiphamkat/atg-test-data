@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST045132 Verify does not require git setup for new project</name>
+   <tag>story-test,git-setup,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>c8c9cb84-b276-444f-a1b2-871a16ab86ed</testCaseGuid>
+</TestCaseEntity>

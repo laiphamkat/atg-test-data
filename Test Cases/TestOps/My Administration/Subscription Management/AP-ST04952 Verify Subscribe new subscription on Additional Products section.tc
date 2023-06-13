@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST04952 Verify Subscribe new subscription on Additional Products section</name>
+   <tag>story-test,subscription-management,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>25f3d5e4-c7ad-4094-96db-4530a921eaf9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST005612 Verify that application states are presented by nodes</name>
+   <tag>autonomous,story-test,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>25155db8-20db-44c4-b84c-c8645f76bbf7</testCaseGuid>
+</TestCaseEntity>

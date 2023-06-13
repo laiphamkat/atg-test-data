@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST002222 Verify user can not assign duplication custom fields on the test schedule</name>
+   <tag>story-test,test-schedule,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>b07b39de-dfd4-43ad-b525-4988cd25dd95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d5eb835-1de9-4806-b982-30294183f814</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ACST002222'</defaultValue>
+      <description></description>
+      <id>6d5eb835-1de9-4806-b982-30294183f814</id>
+      <masked>false</masked>
+      <name>key</name>
+   </variable>
+</TestCaseEntity>

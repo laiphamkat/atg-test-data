@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA00727 Verify ui payment method with data</name>
+   <tag>fast-test,admin,ui</tag>
+   <comment></comment>
+   <testCaseGuid>64c15965-16dd-436b-83e6-b7b944fe9cb1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5ff21ea-08fd-4d37-ada9-a6428aa2f7bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c010310-8f5a-45f2-99b0-40a5e94b2650</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b376ae1-3e53-4ba8-9037-d5c833d1c5fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.owner_mail</defaultValue>
+      <description></description>
+      <id>c5ff21ea-08fd-4d37-ada9-a6428aa2f7bf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_pass</defaultValue>
+      <description></description>
+      <id>4c010310-8f5a-45f2-99b0-40a5e94b2650</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.defaultAccount</defaultValue>
+      <description></description>
+      <id>0b376ae1-3e53-4ba8-9037-d5c833d1c5fe</id>
+      <masked>false</masked>
+      <name>accountId</name>
+   </variable>
+</TestCaseEntity>

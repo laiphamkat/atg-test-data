@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST045142 Verify can generate test case with data binding</name>
+   <tag>story-test,autonomous,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>f9a96223-fd4f-4634-97db-2c0056d83e16</testCaseGuid>
+</TestCaseEntity>

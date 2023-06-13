@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044471 Verify the display of native app feature</name>
+   <tag>story-test,native-app,testcloud,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>1e07d43f-45d9-47ee-bab0-4c3e2a51e448</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a9d9519d-c119-45aa-a050-7b4ef9cbb6b3</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/AC-FA044471</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a9d9519d-c119-45aa-a050-7b4ef9cbb6b3</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>f2a5d819-4e9a-4975-a7ba-db583b46b206</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>f2a5d819-4e9a-4975-a7ba-db583b46b206</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

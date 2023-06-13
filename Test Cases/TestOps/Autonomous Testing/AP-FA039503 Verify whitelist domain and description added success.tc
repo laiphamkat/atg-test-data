@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://katalon.atlassian.net/browse/KIP-1243</description>
+   <name>AP-FA039503 Verify whitelist domain and description added success</name>
+   <tag>autonomous,fast-test,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>f0e5665c-e949-414d-9eb8-604378dd0405</testCaseGuid>
+</TestCaseEntity>

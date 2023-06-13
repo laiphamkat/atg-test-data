@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044473 Verify user can run schedule save test run with g5 ts - result</name>
+   <tag>story-test,ui,testcloud,g5,p1</tag>
+   <comment></comment>
+   <testCaseGuid>b7d246b7-6647-48bb-9733-5a540df8b5df</testCaseGuid>
+</TestCaseEntity>

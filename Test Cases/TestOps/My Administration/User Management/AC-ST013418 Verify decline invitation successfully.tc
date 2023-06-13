@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST013418 Verify decline invitation successfully</name>
+   <tag>story-test,user-management,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>2f4f98f8-7f39-4305-b13f-cf3edbff91f5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f29fd6b9-9b6f-4c8d-84e9-8a8dfaa0897c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90287a71-0dd3-47b3-b761-6c355947431f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc93abc9-7532-427e-aa33-da0b89c00a57</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'pgialinh.iuetv+11@gmail.com'</defaultValue>
+      <description></description>
+      <id>f29fd6b9-9b6f-4c8d-84e9-8a8dfaa0897c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'333'</defaultValue>
+      <description></description>
+      <id>90287a71-0dd3-47b3-b761-6c355947431f</id>
+      <masked>false</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>'RfES2L809yyT69vCWLoDzQ=='</defaultValue>
+      <description></description>
+      <id>bc93abc9-7532-427e-aa33-da0b89c00a57</id>
+      <masked>false</masked>
+      <name>userPwd</name>
+   </variable>
+</TestCaseEntity>

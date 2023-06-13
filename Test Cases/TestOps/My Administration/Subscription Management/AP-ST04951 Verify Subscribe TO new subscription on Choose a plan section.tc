@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST04951 Verify Subscribe TO new subscription on Choose a plan section</name>
+   <tag>story-test,subscription-management,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>f63228b1-4f44-4fd2-929c-b2362618db7a</testCaseGuid>
+</TestCaseEntity>

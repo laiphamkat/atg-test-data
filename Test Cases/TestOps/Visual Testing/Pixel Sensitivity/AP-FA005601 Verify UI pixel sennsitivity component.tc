@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FA005601 Verify UI pixel sennsitivity component</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>1173a3aa-4f97-4150-a986-71aa5aa1b4d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c0b2c3b-21c9-48c0-a77b-18c7d15cce4e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>9</defaultValue>
+      <description></description>
+      <id>5c0b2c3b-21c9-48c0-a77b-18c7d15cce4e</id>
+      <masked>false</masked>
+      <name>testRunID</name>
+   </variable>
+</TestCaseEntity>

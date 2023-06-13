@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040938 Verify ui of test run - overview page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>c2d604cf-e865-42b3-8d90-e2f9550e6d3a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3f320a73-61eb-45a3-8013-294e933677b9</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05a7bf08-8543-4142-a4f3-559d730d1799</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3f320a73-61eb-45a3-8013-294e933677b9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>dd433c44-73e0-4b0f-a46e-09d5b7b82033</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.testOpsUrl</defaultValue>
+      <description></description>
+      <id>05a7bf08-8543-4142-a4f3-559d730d1799</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>dd433c44-73e0-4b0f-a46e-09d5b7b82033</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

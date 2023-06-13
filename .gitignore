@@ -1,0 +1,50 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+!Data/**/*.log
+Reports
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+!Drivers/*.jar
+*.war
+*.nar
+*.ear
+*.zip
+!Data/APIs/TestCloud/*.zip
+*.tar.gz
+*.rar
+.gradle
+
+# Profiles
+#*.glbl
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#project file
+*.prj
+
+#cache folder
+.cache/
+
+
+#Libs
+Libs/
+.project
+.classpath
+.cache
+Libs
+bin
+.DS_Store
+*.har
+.settings/
+Indices/

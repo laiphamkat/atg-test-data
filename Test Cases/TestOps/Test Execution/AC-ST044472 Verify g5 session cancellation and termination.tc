@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044472 Verify g5 session cancellation and termination</name>
+   <tag>story-test,testcloud,g5,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>7054647d-d353-4576-aa9d-83a352f4f2dd</testCaseGuid>
+</TestCaseEntity>

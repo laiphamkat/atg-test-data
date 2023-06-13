@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST02208 Verify the TR that exec on TO will be pushed to Xray for 2 Jira projects</name>
+   <tag>story-test,xray,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>cccc27f0-ede9-4f6c-bd63-1f3c88a05df5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040948 Verify report - test cases - flaky page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>7977e921-b96f-4296-93d3-f3516808d1ca</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d1ebf262-01f5-4419-841f-66aca945edce</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f956c42-40b3-4642-b644-0939c6fd509e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d1ebf262-01f5-4419-841f-66aca945edce</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>f22e328b-781c-4929-bfd4-7e4471fe98cc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.testOpsUrl</defaultValue>
+      <description></description>
+      <id>2f956c42-40b3-4642-b644-0939c6fd509e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>f22e328b-781c-4929-bfd4-7e4471fe98cc</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

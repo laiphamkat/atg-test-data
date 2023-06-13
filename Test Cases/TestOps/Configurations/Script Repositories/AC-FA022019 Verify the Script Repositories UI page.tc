@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA022019 Verify the Script Repositories UI page</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>d6540e19-01ac-47e0-ab02-7349e0315374</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>77928693-fc3d-4eea-9a1b-ad317753d2fb</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>77928693-fc3d-4eea-9a1b-ad317753d2fb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>cfb685b7-181b-4867-98a2-b79ab4ace553</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>cfb685b7-181b-4867-98a2-b79ab4ace553</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

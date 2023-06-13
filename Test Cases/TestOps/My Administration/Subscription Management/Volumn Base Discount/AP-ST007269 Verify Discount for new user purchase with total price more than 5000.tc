@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST007269 Verify Discount for new user purchase with total price more than 5000</name>
+   <tag>story-test,subscription-management,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>5c6ee40f-a7b5-44cd-8eaa-83333d548133</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044474 Verify user can cancel on schedule test run modal</name>
+   <tag>story-test,schedule-test-run,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>13d331d2-df64-46a0-89b7-2321a3ca4296</testCaseGuid>
+</TestCaseEntity>

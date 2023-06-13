@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST045140 Verify can view defautlt generated test cases from the 1-day-data user journey map</name>
+   <tag>story-test,autonomous,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>3ece176c-7b48-43d7-8cda-a5e7d1a4a486</testCaseGuid>
+</TestCaseEntity>

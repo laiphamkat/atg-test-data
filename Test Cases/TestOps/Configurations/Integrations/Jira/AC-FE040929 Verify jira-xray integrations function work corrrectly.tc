@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FE040929 Verify jira-xray integrations function work corrrectly</name>
+   <tag>story-test,jira,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>dc9a9e7c-da63-4b15-ac4b-26e106a15b75</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c5ea54b-3fdb-40d8-b18f-228d4471b087</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>315aefe4-b7bc-476f-a591-6da41f0ffedb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90cb0b01-7131-4358-b33f-598ba32dcc0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>6c5ea54b-3fdb-40d8-b18f-228d4471b087</id>
+      <masked>false</masked>
+      <name>projectId</name>
+   </variable>
+   <variable>
+      <defaultValue>'tuyen.nguyen+16@katalon.com'</defaultValue>
+      <description></description>
+      <id>315aefe4-b7bc-476f-a591-6da41f0ffedb</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'8nK2jGbhEfTmauKiLYHJzA=='</defaultValue>
+      <description></description>
+      <id>90cb0b01-7131-4358-b33f-598ba32dcc0c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

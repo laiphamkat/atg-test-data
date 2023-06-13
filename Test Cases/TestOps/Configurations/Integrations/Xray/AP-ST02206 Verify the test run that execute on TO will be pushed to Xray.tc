@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST02206 Verify the test run that execute on TO will be pushed to Xray</name>
+   <tag>story-test,xray,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>1c833bb3-27b3-4850-97e7-0f365429fb3c</testCaseGuid>
+</TestCaseEntity>

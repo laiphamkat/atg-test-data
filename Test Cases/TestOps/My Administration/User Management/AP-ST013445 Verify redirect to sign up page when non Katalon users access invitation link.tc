@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST013445 Verify redirect to sign up page when non Katalon users access invitation link</name>
+   <tag>story-test,user-management,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>759d2439-f9eb-4733-ac01-87ea13868a23</testCaseGuid>
+</TestCaseEntity>

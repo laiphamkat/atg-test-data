@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST013443 Verify resend invitation successfully</name>
+   <tag>story-test,p3,user-management,ui</tag>
+   <comment></comment>
+   <testCaseGuid>a3ef678c-9c94-4973-9f3a-e8cbf973a675</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb3e7fe8-59b6-4d86-ba70-49100743eb19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'invitee@mail.com'</defaultValue>
+      <description></description>
+      <id>fb3e7fe8-59b6-4d86-ba70-49100743eb19</id>
+      <masked>false</masked>
+      <name>inviteeMail</name>
+   </variable>
+</TestCaseEntity>

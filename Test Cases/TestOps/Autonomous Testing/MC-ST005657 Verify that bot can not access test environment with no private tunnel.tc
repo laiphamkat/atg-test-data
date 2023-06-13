@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST005657 Verify that bot can not access test environment with no private tunnel</name>
+   <tag>story-test,autonomous,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>92299789-7ad5-4967-8ee4-edf76dfd623f</testCaseGuid>
+</TestCaseEntity>

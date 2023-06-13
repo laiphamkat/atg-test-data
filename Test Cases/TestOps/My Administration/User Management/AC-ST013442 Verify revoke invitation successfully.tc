@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST013442 Verify revoke invitation successfully</name>
+   <tag>story-test,user-management,p3,ui</tag>
+   <comment></comment>
+   <testCaseGuid>32d9b7b5-1a1f-4e5f-866b-07e28276e944</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2eeb97f-07e7-4ba5-aaa1-6e9409bcdc99</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'invitee@gmail.com'</defaultValue>
+      <description></description>
+      <id>a2eeb97f-07e7-4ba5-aaa1-6e9409bcdc99</id>
+      <masked>false</masked>
+      <name>inviteeMail</name>
+   </variable>
+</TestCaseEntity>

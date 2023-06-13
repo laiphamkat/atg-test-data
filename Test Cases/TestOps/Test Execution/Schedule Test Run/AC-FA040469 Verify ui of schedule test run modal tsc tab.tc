@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040469 Verify ui of schedule test run modal tsc tab</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>4137ff51-eb34-4a38-a79b-31a9005b4aad</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>19e86c97-85c3-444e-aee7-cf654200b46e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>19e86c97-85c3-444e-aee7-cf654200b46e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>df48459b-8e6f-451a-9070-43dd009dd66f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>df48459b-8e6f-451a-9070-43dd009dd66f</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

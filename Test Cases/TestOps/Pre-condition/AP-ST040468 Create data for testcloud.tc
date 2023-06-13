@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST040468 Create data for testcloud</name>
+   <tag>story-test,pre-condition,api,p3</tag>
+   <comment></comment>
+   <testCaseGuid>a53d0259-e04c-4208-9dfb-cf9ca2b14b0d</testCaseGuid>
+</TestCaseEntity>

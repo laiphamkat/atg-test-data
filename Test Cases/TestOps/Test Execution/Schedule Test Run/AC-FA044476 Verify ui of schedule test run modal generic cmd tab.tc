@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA044476 Verify ui of schedule test run modal generic cmd tab</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>5acf3825-0909-4fb4-81a0-0006c7c39143</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b7f0f430-7ce4-4446-98ac-8e3d40e63a46</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b7f0f430-7ce4-4446-98ac-8e3d40e63a46</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>6a242570-7723-41d9-b93d-61e16e8276bd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>6a242570-7723-41d9-b93d-61e16e8276bd</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

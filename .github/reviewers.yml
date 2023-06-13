@@ -1,0 +1,17 @@
+reviewers:
+  
+  defaults:
+    - laiphamkat
+    - NhiLyLan
+    - phu-vuong-katalon
+    - tuyenKatalon
+    - Linh-Phan-KatOne
+    - nhu.tqnguyen
+    - NhuTQNguyen-Kat
+    - huydaoQE
+    - locthn
+
+options:
+  ignore_draft: true
+  enable_group_assignment: false
+  number_of_reviewers: 3

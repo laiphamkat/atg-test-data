@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040942 Verify report - test runs - failed test results page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>aea92b0e-8706-4e8a-9f76-ac80b887edb6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2b86f941-96f3-475d-a5be-e4179b6e55e8</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1daf24d-2c83-4088-9526-de77ddd03d9c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2b86f941-96f3-475d-a5be-e4179b6e55e8</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>3f7d3401-6cd9-4c79-9682-0dd2d35b0a8d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.testOpsUrl</defaultValue>
+      <description></description>
+      <id>b1daf24d-2c83-4088-9526-de77ddd03d9c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>3f7d3401-6cd9-4c79-9682-0dd2d35b0a8d</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

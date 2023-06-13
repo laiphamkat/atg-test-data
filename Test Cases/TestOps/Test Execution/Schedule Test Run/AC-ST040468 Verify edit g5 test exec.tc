@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST040468 Verify edit g5 test exec</name>
+   <tag>story-test,schedule-test-run,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>bebbe80f-37f3-40c8-8554-caf058f93227</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a3eaeb4-33df-4793-bb62-48f2b95346f0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>4a3eaeb4-33df-4793-bb62-48f2b95346f0</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

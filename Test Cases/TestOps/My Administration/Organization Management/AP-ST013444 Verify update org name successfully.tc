@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST013444 Verify update org name successfully</name>
+   <tag>story-test,org-management,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>baaa56fd-d3d4-4c2e-9a87-05623a524ae9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST002270 Verify user email banner</name>
+   <tag>story-test,email-banner,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>157313fb-32a3-48e5-9f83-2504d1f6d3a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user assigned saleforce slot can submit a support ticket successfuly</description>
+   <name>AC-ST013426 Verify user assigned sf slot can submit a support ticket successfuly</name>
+   <tag>story-test,support-management,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>a29a3983-9828-487d-8123-3f31dddf805c</testCaseGuid>
+</TestCaseEntity>

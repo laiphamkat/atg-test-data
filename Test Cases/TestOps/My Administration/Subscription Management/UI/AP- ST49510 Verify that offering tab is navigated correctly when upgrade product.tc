@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP- ST49510 Verify that offering tab is navigated correctly when upgrade product</name>
+   <tag>story-test,subscription-management,ui</tag>
+   <comment></comment>
+   <testCaseGuid>91c58427-d208-4379-a0cd-1d7476d4433f</testCaseGuid>
+</TestCaseEntity>
