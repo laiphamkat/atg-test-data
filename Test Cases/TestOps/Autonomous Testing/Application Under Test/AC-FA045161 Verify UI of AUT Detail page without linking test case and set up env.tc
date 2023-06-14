@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA045161 Verify UI of AUT Detail page without linking test case and set up env</name>
+   <tag>fast-test,autonomous,ui</tag>
+   <comment></comment>
+   <testCaseGuid>9e1ace33-275c-4439-9155-00dd93b23875</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>61b9359e-1937-4f46-9e55-1cf7eb1a5ced</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e34f5f5d-9c9d-4656-90bc-564ff2d61778</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7313915-7e71-4b84-92bc-891f9a46f990</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>61b9359e-1937-4f46-9e55-1cf7eb1a5ced</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automation - DO NOT REMOVE - New AUT'</defaultValue>
+      <description></description>
+      <id>e34f5f5d-9c9d-4656-90bc-564ff2d61778</id>
+      <masked>false</masked>
+      <name>autName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Description Automation - DO NOT REMOVE - New AUT'</defaultValue>
+      <description></description>
+      <id>c7313915-7e71-4b84-92bc-891f9a46f990</id>
+      <masked>false</masked>
+      <name>autDescription</name>
+   </variable>
+</TestCaseEntity>

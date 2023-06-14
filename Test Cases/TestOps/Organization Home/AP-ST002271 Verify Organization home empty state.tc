@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST002271 Verify Organization home empty state</name>
+   <tag>story-test,organization-home,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>eb8c6294-0291-4d2a-8518-dcf1330f808d</testCaseGuid>
+</TestCaseEntity>

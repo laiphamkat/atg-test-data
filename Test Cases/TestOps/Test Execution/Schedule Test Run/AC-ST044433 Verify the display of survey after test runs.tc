@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044433 Verify the display of survey after test runs</name>
+   <tag>story-test,schedule-test-run,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>57382713-64dd-4d5d-b299-06918b348ec9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13ec181e-790c-47b6-9377-302b6bc9b060</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31ae3490-b07d-40fa-85b8-37146ff065df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e6c6e06-fe15-44d2-b43e-8d47442da047</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>13ec181e-790c-47b6-9377-302b6bc9b060</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Verify test passed with markPassed'</defaultValue>
+      <description></description>
+      <id>31ae3490-b07d-40fa-85b8-37146ff065df</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e6c6e06-fe15-44d2-b43e-8d47442da047</id>
+      <masked>false</masked>
+      <name>unique</name>
+   </variable>
+</TestCaseEntity>

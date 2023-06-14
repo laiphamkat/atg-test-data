@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST04926 Verify saleforce support slot quota of KRE</name>
+   <tag>story-test,ui,support-management,p3</tag>
+   <comment></comment>
+   <testCaseGuid>bfef3d03-4f35-4af0-9d29-2a6e344c016d</testCaseGuid>
+</TestCaseEntity>

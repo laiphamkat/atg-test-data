@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA045160 Verify User role cannot access to Autonomous Testing Feature</name>
+   <tag>fast-test,autonomous,ui</tag>
+   <comment></comment>
+   <testCaseGuid>7a4ef8b6-1654-4170-b9fe-4766eae6a43d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5425c34e-4f2b-4a05-8648-f00deb8aea1f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>5425c34e-4f2b-4a05-8648-f00deb8aea1f</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

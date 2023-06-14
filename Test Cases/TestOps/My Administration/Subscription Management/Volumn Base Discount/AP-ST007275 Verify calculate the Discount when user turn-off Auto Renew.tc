@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST007275 Verify calculate the Discount when user turn-off Auto Renew</name>
+   <tag>story-test,subscription-management,integration,recurly,p2</tag>
+   <comment></comment>
+   <testCaseGuid>043e029d-cae0-4f04-b4f5-a46b8ceb193a</testCaseGuid>
+</TestCaseEntity>

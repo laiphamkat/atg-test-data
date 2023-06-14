@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040945 Verify report - test cases - active page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>aeda675d-e7c0-4ba3-8492-ed2ba809c3cd</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e349f5f5-2338-473b-bb5d-4438c40a077c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e349f5f5-2338-473b-bb5d-4438c40a077c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>642bcf13-732c-4924-9ce1-7c37aa3988b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>642bcf13-732c-4924-9ce1-7c37aa3988b0</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

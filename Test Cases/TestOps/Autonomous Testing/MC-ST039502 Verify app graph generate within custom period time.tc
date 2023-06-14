@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST039502 Verify app graph generate within custom period time</name>
+   <tag>story-test,autotg,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>a23690cc-bb2b-4bf0-9808-4651fb275c18</testCaseGuid>
+</TestCaseEntity>

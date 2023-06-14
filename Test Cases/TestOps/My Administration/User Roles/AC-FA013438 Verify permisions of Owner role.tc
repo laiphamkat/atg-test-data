@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA013438 Verify permisions of Owner role</name>
+   <tag>fast-test,admin,ui</tag>
+   <comment></comment>
+   <testCaseGuid>038534e1-30a7-424e-bd30-156a27f3561b</testCaseGuid>
+</TestCaseEntity>

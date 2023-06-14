@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040941 Verify report - test runs - run frequency page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>08eb1392-0220-470f-b100-f405065e020b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7e45c612-f381-4e31-a1d4-5a40b670f92d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7cdc2085-049e-4cd3-a21c-7dc9aa0d9345</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7e45c612-f381-4e31-a1d4-5a40b670f92d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>7c9cd525-0ed6-4f2f-ac59-c8de4b7e2e0a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.testOpsUrl</defaultValue>
+      <description></description>
+      <id>7cdc2085-049e-4cd3-a21c-7dc9aa0d9345</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>7c9cd525-0ed6-4f2f-ac59-c8de4b7e2e0a</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

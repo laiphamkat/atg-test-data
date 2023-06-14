@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST005617 Verify that user can summary listing the number of states and the number of transitions</name>
+   <tag>autonomous,story-test,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>6e52b0de-bc01-4aba-b83f-e02d0e506751</testCaseGuid>
+</TestCaseEntity>

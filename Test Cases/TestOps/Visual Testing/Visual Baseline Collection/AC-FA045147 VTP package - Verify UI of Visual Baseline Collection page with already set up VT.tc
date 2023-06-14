@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA045147 VTP package - Verify UI of Visual Baseline Collection page with already set up VT</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>319ac853-3f09-4bba-ac5a-84660e9ec9ee</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>911f1b47-18bc-4c5f-9cda-080f556d6ee4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>911f1b47-18bc-4c5f-9cda-080f556d6ee4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>c4063384-b651-4e14-850c-6156bb3e137c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>c4063384-b651-4e14-850c-6156bb3e137c</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

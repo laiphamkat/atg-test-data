@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST002268 Verify user can exe TO TS with TC data binding by test cloud</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>b824c247-a95b-49a1-b3f2-0d9db239d2c8</testCaseGuid>
+</TestCaseEntity>

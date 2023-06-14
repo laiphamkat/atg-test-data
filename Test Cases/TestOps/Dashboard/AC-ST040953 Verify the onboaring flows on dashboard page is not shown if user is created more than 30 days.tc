@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST040953 Verify the onboaring flows on dashboard page is not shown if user is created more than 30 days</name>
+   <tag>story-test,onboarding,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>154fd641-8520-49d4-a313-a73ed22adf55</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>eb064a1a-de6c-4c4b-969d-d8d2a7740817</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>eb064a1a-de6c-4c4b-969d-d8d2a7740817</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>c7bb3d85-e008-4c5b-bab9-fa9755d9f684</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7bb3d85-e008-4c5b-bab9-fa9755d9f684</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

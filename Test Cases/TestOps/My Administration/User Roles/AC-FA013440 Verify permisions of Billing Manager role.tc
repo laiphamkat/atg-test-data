@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA013440 Verify permisions of Billing Manager role</name>
+   <tag>fast-test,admin,ui</tag>
+   <comment></comment>
+   <testCaseGuid>8f8dce32-60ef-4517-addf-a9a960a1b46a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-FE0409230 Verify the line chart behavior in Defect page</name>
+   <tag>feature-test,defect,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>738e0f93-7dbc-44f3-b7b7-d17f6d1977ea</testCaseGuid>
+</TestCaseEntity>

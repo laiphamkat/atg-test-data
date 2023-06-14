@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC_FA045164 Verify UI User Journey page without setup ATG</name>
+   <tag>fast-test,autonomous,ui</tag>
+   <comment></comment>
+   <testCaseGuid>160c7aa3-860e-4f1f-88ca-e54631fdf2b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da31c3fc-19d2-44ea-9d18-9f1cf002dbd1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>da31c3fc-19d2-44ea-9d18-9f1cf002dbd1</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

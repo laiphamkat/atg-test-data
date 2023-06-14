@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST040954 Verify new users able to dismiss the onboarding</name>
+   <tag>story-test,onboarding,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>717fe5b4-1826-469f-89dc-1119be87fbcf</testCaseGuid>
+</TestCaseEntity>

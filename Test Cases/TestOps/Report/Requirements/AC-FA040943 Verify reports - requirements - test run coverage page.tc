@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040943 Verify reports - requirements - test run coverage page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>27b6cbe2-ae9b-40f0-8192-5bb675a2ba9b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e8f0453b-be95-471e-9157-809d1c432b3d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e8f0453b-be95-471e-9157-809d1c432b3d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>a904fa8b-58bd-4239-b7f4-1ead7cf3c883</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>a904fa8b-58bd-4239-b7f4-1ead7cf3c883</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

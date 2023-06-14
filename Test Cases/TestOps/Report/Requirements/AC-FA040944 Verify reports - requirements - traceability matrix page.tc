@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040944 Verify reports - requirements - traceability matrix page</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>4a64171f-0fcf-4495-bffb-e1200522eb6f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3a388188-edf9-4527-b1fb-fb63e5805263</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3a388188-edf9-4527-b1fb-fb63e5805263</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>90402e5b-9dd4-47cc-af6d-fde2941642ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>90402e5b-9dd4-47cc-af6d-fde2941642ee</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

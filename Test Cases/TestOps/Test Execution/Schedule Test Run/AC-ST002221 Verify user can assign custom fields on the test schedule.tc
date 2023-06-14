@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST002221 Verify user can assign custom fields on the test schedule</name>
+   <tag>story-test,test-schedule,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>9eb218f4-c781-4fd5-a0f7-d77b5d870769</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5afa833c-9fcf-4545-a5b1-c5466670523d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/AC-ST002221</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5afa833c-9fcf-4545-a5b1-c5466670523d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>listCustomFieldKeys</value>
+      <variableId>82d4b71f-4a77-46f5-81fe-3e0a926f12ac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'[&quot;ACST002221&quot;]'</defaultValue>
+      <description></description>
+      <id>82d4b71f-4a77-46f5-81fe-3e0a926f12ac</id>
+      <masked>false</masked>
+      <name>listCustomFieldKeys</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FE005618 Verify that user can link the AUT with multiple projects successfully</name>
+   <tag>feature-test,autonomous,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>0a4ef4cd-dd27-4c71-a452-8ae8977a2597</testCaseGuid>
+</TestCaseEntity>

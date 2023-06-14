@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST005616 Verify that user can drag and drop nodes successfully</name>
+   <tag>autonomous,story-test,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>a888fa76-0b69-485a-b254-4b4667258193</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST007281 Verify new subscription change on DB should be correct</name>
+   <tag>story-test,subscription-management,integration,recurly,p2</tag>
+   <comment></comment>
+   <testCaseGuid>f651b9b1-d209-4262-8a2f-219abdf79e49</testCaseGuid>
+</TestCaseEntity>

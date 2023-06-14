@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST007268 Verify Discount for new user purchase with total price less than 5000</name>
+   <tag>story-test,subscription-management,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>911a40bc-6b3d-4d43-9270-88e49827ab90</testCaseGuid>
+</TestCaseEntity>

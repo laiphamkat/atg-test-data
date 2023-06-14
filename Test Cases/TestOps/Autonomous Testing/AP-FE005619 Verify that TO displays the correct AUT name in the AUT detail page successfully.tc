@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FE005619 Verify that TO displays the correct AUT name in the AUT detail page successfully</name>
+   <tag>feature-test,autonomous,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>c1e87c28-cdec-4dc9-88f8-8b07256d5ebc</testCaseGuid>
+</TestCaseEntity>

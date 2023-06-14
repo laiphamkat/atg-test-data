@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST04925 Verify saleforce support slot quota of KSE</name>
+   <tag>story-test,ui,support-management,p3</tag>
+   <comment></comment>
+   <testCaseGuid>dc989d25-e209-4549-bd87-a878361b4b96</testCaseGuid>
+</TestCaseEntity>

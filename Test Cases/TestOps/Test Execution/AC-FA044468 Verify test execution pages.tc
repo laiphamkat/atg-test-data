@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA044468 Verify test execution pages</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>435d48e6-1b1f-4b60-9b4b-bdeb44dde688</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>56ac419e-6481-4f9a-8ff2-d16baecac00f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/AC-FA044468</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>56ac419e-6481-4f9a-8ff2-d16baecac00f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>3bbd046e-867e-4074-a5a9-20a86b08e56c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>3bbd046e-867e-4074-a5a9-20a86b08e56c</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

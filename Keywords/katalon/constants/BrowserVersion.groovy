@@ -1,0 +1,26 @@
+package katalon.constants
+
+public class BrowserVersion {
+	public static final String CHROME_WINDOWS_LATEST = '110'
+	public static final String CHROME_WINDOWS_2ND_LATEST = '109'
+	public static final String FIREFOX_WINDOWS_LATEST = '110'
+	public static final String FIREFOX_WINDOWS_2ND_LATEST = '109'
+	public static final String EDGE_CHROMIUM_WINDOWS_LATEST = '110'
+	public static final String IE_WINDOWS_LATEST = '11'
+	public static final String CHROME_LINUX_LATEST = '110'
+	public static final String CHROME_LINUX_LATEST_REPORT = '110.0.0.0'
+	public static final String CHROME_LINUX_2ND_LATEST = '109'
+	public static final String FIREFOX_LINUX_LATEST = '110'
+	public static final String FIREFOX_LINUX_LATEST_REPORT = '110.0.0.0'
+	public static final String FIREFOX_LINUX_2ND_LATEST = '109'
+	public static final String SAFARI_MACOS_LATEST = '16'
+	public static final String CHROME_MACOS_LATEST = '110'
+	public static final String CHROME_MACOS_2ND_LATEST = '109'
+	public static final String FIREFOX_MACOS_LATEST = '109'
+	public static final String FIREFOX_MACOS_2ND_LATEST = '108'
+	public static final String EDGE_CHROMIUM_MACOS_LATEST = '109'
+	public static final String G5_CHROME_LINUX_LATEST = '113'
+	public static final String G5_CHROME_LINUX_LATEST_REPORT = '113.0.5672.126'
+	public static final String G5_FIREFOX_LINUX_LATEST = '113'
+	public static final String G5_FIREFOX_LINUX_LATEST_REPORT = '113.0'
+}

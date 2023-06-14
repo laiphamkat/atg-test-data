@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA045162 Verify UI of Application Under Test Listing page at the first time set up</name>
+   <tag>fast-test,autonomous,ui</tag>
+   <comment></comment>
+   <testCaseGuid>8a2bd110-7dac-41a0-9888-09174148aa70</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40bdc7d8-5f65-42dd-857e-2ffd505a6f5d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>40bdc7d8-5f65-42dd-857e-2ffd505a6f5d</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

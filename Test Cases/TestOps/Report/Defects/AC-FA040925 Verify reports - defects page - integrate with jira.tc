@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA040925 Verify reports - defects page - integrate with jira</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>38adee2d-0879-4375-b8ba-2dbb4353ac9d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ded52e60-4f74-4bc6-a08c-98398650b35b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value>3-3</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Report/Defect/AC-FA040925</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e57a686-d68b-426b-8457-aed4be222458</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>8e57a686-d68b-426b-8457-aed4be222458</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FA045130 Verify dowload Katalon Platform popup</name>
+   <tag>fast-test,platform,ui</tag>
+   <comment></comment>
+   <testCaseGuid>db651efc-7859-4020-9bb3-a2db67a17fc1</testCaseGuid>
+</TestCaseEntity>

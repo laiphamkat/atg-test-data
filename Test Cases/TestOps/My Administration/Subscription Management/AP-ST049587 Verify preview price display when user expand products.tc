@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST049587 Verify preview price display when user expand products</name>
+   <tag>story-test,subscription-management,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>466269fc-0d44-4b5b-8e16-764ac7375a60</testCaseGuid>
+</TestCaseEntity>

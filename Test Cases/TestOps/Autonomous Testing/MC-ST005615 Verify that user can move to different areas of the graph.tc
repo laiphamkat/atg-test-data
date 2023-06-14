@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST005615 Verify that user can move to different areas of the graph</name>
+   <tag>autonomous,story-test,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>8109afd4-c91b-4193-a4a1-689c50618922</testCaseGuid>
+</TestCaseEntity>

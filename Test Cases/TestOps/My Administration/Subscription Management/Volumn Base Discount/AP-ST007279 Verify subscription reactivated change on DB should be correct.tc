@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST007279 Verify subscription reactivated change on DB should be correct</name>
+   <tag>story-test,subscription-management,integration,recurly,p2</tag>
+   <comment></comment>
+   <testCaseGuid>3fabfc1b-a8da-4c51-b62b-3414642c876d</testCaseGuid>
+</TestCaseEntity>

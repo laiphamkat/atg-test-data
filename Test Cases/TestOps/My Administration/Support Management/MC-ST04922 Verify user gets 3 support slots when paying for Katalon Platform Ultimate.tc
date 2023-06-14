@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST04922 Verify user gets 3 support slots when paying for Katalon Platform Ultimate</name>
+   <tag>story-test,ui,support-management,p2</tag>
+   <comment></comment>
+   <testCaseGuid>e76f231e-2541-43e2-b564-195f9092c70f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FE03950 Verify AUT List page</name>
+   <tag>fast-test,autotg</tag>
+   <comment></comment>
+   <testCaseGuid>ae4ba078-254c-4be3-a9b7-a655bf29924f</testCaseGuid>
+</TestCaseEntity>

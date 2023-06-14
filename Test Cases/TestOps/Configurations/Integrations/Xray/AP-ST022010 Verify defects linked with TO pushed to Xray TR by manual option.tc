@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-ST022010 Verify defects linked with TO pushed to Xray TR by manual option</name>
+   <tag>story-test,xray,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>cdbd87b8-38c0-45bf-a090-994a75b206b4</testCaseGuid>
+</TestCaseEntity>

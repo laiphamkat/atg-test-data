@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST013447 Verify owner and admin can assign and revoke slot</name>
+   <tag>story-test,support-management,ui,p3</tag>
+   <comment></comment>
+   <testCaseGuid>d1d460d1-311f-4264-a063-80d182b48583</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>76fe8174-5fd5-4d71-a858-a773063bd14b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/My Administration/Support Managment/AC-ST013447</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>76fe8174-5fd5-4d71-a858-a773063bd14b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Role</value>
+      <variableId>bdeb56ff-5a67-4eef-8489-c62b25f212aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Owner'</defaultValue>
+      <description></description>
+      <id>bdeb56ff-5a67-4eef-8489-c62b25f212aa</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

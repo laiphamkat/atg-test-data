@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FA045146 VTP package - Verify UI of Visual Testing page without config Visual Testing yet</name>
+   <tag>fast-test,testcloud-ai,ui</tag>
+   <comment></comment>
+   <testCaseGuid>ea41512c-1107-41c1-aa9e-76cadbbaef03</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>96ca4232-e05a-4cd5-8592-43a41c873424</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Common/roles</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>96ca4232-e05a-4cd5-8592-43a41c873424</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>e487c5b7-948a-41d7-9540-cb8421f2088a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>e487c5b7-948a-41d7-9540-cb8421f2088a</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>
